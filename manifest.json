@@ -1,6 +1,6 @@
 {
-  "name": "ISO Department Checklist",
-  "short_name": "ISO Checklist",
+  "name": "SNM College ISO Check List",
+  "short_name": "SNMC ISO",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
